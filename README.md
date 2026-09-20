@@ -1,114 +1,121 @@
-Matplotlib Documentation
+# Matplotlib Documentation
 
 A practical notebook covering the fundamentals of Matplotlib for data visualization in Python.
 
-📌 Overview
+## 📌 Overview
 
-This project contains practical examples and explanations of common Matplotlib visualization techniques, including:
+This project contains practical examples and explanations of common Matplotlib visualization techniques.
 
-Line plots
+## Topics Covered
 
-Legends and plot customization
+- 📈 Line plots
 
-Bar charts
+- 🏷️ Legends and plot customization
 
-Multiple bar charts
+- 📊 Bar charts
 
-Horizontal bar charts
+- 📊 Multiple bar charts
 
-Histograms
+- ↔️ Horizontal bar charts
 
-Multiple-data histograms
+- 📉 Histograms
 
-Pie charts
+- 📊 Multiple-data histograms
 
-Exploded pie charts
+- 🥧 Pie charts
 
-Saving charts as image and PDF files
+- 💥 Exploded pie charts
 
-📊 Topics Covered
-Line Plots
+- 💾 Saving charts as image and PDF files
+
+## 📈 Line Plots
 
 Examples of:
 
-Customizing colors
+- Customizing colors
 
-Markers
+- Markers
 
-Line styles
+- Line styles
 
-Line width
+- Line width
 
-Transparency (alpha)
+- Transparency (alpha)
 
-Titles and axis labels
+- Titles and axis labels
 
-Legends
+## 🏷️ Legends
 
-Demonstrates how to add and customize legends using plt.legend().
+Demonstrates how to add and customize legends using `plt.legend()`.
 
-Bar Charts
+## 📊 Bar Charts
 
 Includes:
 
-Vertical bar charts
+- Vertical bar charts
 
-Multiple bars for comparison
+- Multiple bars for comparison
 
-Horizontal bar charts
+- Horizontal bar charts
 
-Histograms
+## 📉 Histograms
 
 Examples using blood sugar data to demonstrate:
 
-Bins
+- Bins
 
-Multiple datasets
+- Multiple datasets
 
-Different histogram styles
+- Different histogram styles
 
-Horizontal orientation
+- Horizontal orientation
 
-Pie Charts
+## 🥧 Pie Charts
 
 Examples covering:
 
-Labels
+- Labels
 
-Percentages
+- Percentages
 
-Shadows
+- Shadows
 
-Equal aspect ratio
+- Equal aspect ratio
 
-Exploded slices
+- Exploded slices
 
-Saving charts to files
+- Saving charts to files
 
-🛠️ Technologies
+## 🛠️ Technologies
 
-Python
+- **Python**
 
-Matplotlib
+- **Matplotlib**
 
-NumPy
+- **NumPy**
 
-Google Colab
+- **Google Colab**
 
-Jupyter Notebook
+- **Jupyter Notebook**
 
-📁 Project Structure
+## 📁 Project Structure
+```text
 Matplotlib-Documentation/
 │
 ├── Matplotlib.ipynb
 └── README.md
+```
 
-🚀 How to Use
+## 🚀 How to Use
 
 You can open the notebook using Google Colab or Jupyter Notebook and run the examples cell by cell.
 
-🎯 Purpose
+## 🎯 Purpose
 
 The purpose of this project is to practice and document the fundamental concepts of Matplotlib and build a foundation for creating data visualizations in Python.
 
-Made with Python & Matplotlib 🐍📊
+## 👨‍💻 Author
+
+**Maged Shabaka**
+
+Made with **Python** & **Matplotlib** 🐍📊
